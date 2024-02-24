@@ -1,2 +1,0 @@
-graphdemo.GraphException
-graphdemo.GraphAPI
